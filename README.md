@@ -1,8 +1,6 @@
 # Introducción
 
-Este trabajo final consistió en cuatro partes, donde se pusieron a prueba las habilidades aprendidas en el curso, tales como el manejo de Python, la creación de modelos de clasificación, y la interpretación y visualización de datos. Finalmente, todo esto se complementó con una entrega en GitHub que combina todo lo aprendido.
-
-# Descripción del Trabajo
+Este trabajo final consistió en cuatro partes, donde se pusieron a prueba las habilidades aprendidas en el curso, como el manejo de Python, la creación de modelos de clasificación, y la interpretación y visualización de datos. Finalmente, todo esto se complementó con una entrega en GitHub que combina todo lo aprendido.
 
 El trabajo final se centró en una base de datos recopilados de la NBA, que incluye información como tiempo jugado, número de asistencias, número de triples, entre otros. A continuación, se detallan las partes del trabajo:
 
@@ -21,7 +19,5 @@ En tercer lugar, utilizamos LazyClassifier para realizar predicciones. Este mode
 ## Optimización de Hiperparámetros
 
 Por último, realizamos una optimización de hiperparámetros y construimos un modelo de aprendizaje automático. Durante todo el proceso, utilizamos Git para crear las ramas adecuadas para cada punto del trabajo final.
-
-# Conclusión
 
 Este trabajo integró diversas técnicas y herramientas aprendidas a lo largo del curso, aplicándolas a un conjunto de datos real y utilizando prácticas de desarrollo colaborativo a través de GitHub.
