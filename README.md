@@ -8,9 +8,9 @@ El trabajo final se centró en una base de datos recopilados de la NBA, que incl
 
 En primer lugar, realizamos un análisis descriptivo de las variables. Esto incluyó identificar el tipo de dato, el valor mínimo, máximo, mediana, etc. También aplicamos un gráfico de correlación que nos sirvió para finalmente realizar el Análisis de Componentes Principales (PCA).
 
-## Análisis Factorial
+## Análisis de componentes principales
 
-En segundo lugar, llevamos a cabo un análisis factorial, que demostró que tres componentes son suficientes para explicar la dimensionalidad de nuestros datos.
+En segundo lugar, llevamos a cabo un análisis de componentes principales, que demostró que tres componentes son suficientes para explicar la dimensionalidad de nuestros datos.
 
 ## Modelos de Clasificación
 
